@@ -1,6 +1,6 @@
 # Sentiment Analyzer (FastAPI & React MUI)
 
-Ovaj projekt predstavlja rješenje tehničkog zadatka za poziciju Backend/AI Developer pripravnika u tvrtki **Smart Code**. Sustav omogućuje korisnicima analizu emocionalnog tona teksta na engleskom jeziku putem modernog web sučelja.
+Ovaj projekt predstavlja rješenje tehničkog zadatka za poziciju Backend/AI Developer pripravnika u **Smart Code**. Sustav omogućuje korisnicima analizu emocionalnog tona teksta na engleskom jeziku putem modernog web sučelja.
 
 ## Značajke
 - **REST API**: Izgrađen pomoću FastAPI okvira, osigurava visoke performanse i automatsku dokumentaciju.
@@ -62,3 +62,6 @@ Za potrebe ovog zadatka odabran je **TextBlob** (zasnovan na NLTK-u).
 * **Positive**: "This movie was absolutely fantastic! I loved it."
 * **Negative**: "The service was terrible and I am very disappointed."
 * **Neutral**: "The package arrived on Tuesday as scheduled."
+
+![App Screenshot](./screenshot.png)
+
